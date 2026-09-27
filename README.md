@@ -1,7 +1,10 @@
- 🔬 Researcher Outreach Pro
+<div align="center">
 
-### *A smart system for discovering researchers, finding verified academic emails, and managing personalized research outreach.*
+# 🔬 Researcher Outreach Pro
 
+**An automated pipeline for discovering researchers, verifying academic contacts, and managing targeted outreach.**
+
+</div>
 ---
 <img width="1024" height="1536" alt="ChatGPT Image Sep 27, 2026, 09_27_35 PM" src="https://github.com/user-attachments/assets/0a1e9e72-6daf-4a48-bc1c-619770e2a50d" />
 
