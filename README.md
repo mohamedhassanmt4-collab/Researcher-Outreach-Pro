@@ -1,75 +1,17 @@
 <div align="center">
 
 # 🔬 Researcher Outreach Pro
+
 An intelligent pipeline for discovering researchers, verifying academic contacts, and managing targeted, evidence-based outreach.
 
-> Built by **Mohamed Hassan M## 📋 Overview
-* **Automatic replies**
-
-The scanning interval is configurable and can run, for example, every **5 minutes**.
-
-Incoming messages can then be analyzed and associated with the appropriate outreach record.
+> Built by **Mohamed Hassan Mohamed-Taha** — an independent tool created to support academic research, scientific collaboration, and researcher outreach in bioinformatics and computational biology.
 
 ---
+
 </div>
 ---
 <img width="1024" height="1536" alt="ChatGPT Image Sep 27, 2026, 09_27_35 PM" src="https://github.com/user-attachments/assets/0a1e9e72-6daf-4a48-bc1c-619770e2a50d" />
 
-
-
-
-
-## 8. Dashboard & Analytics
-
-The dashboard provides an overview of the complete outreach pipeline.
-
-### Statistics
-
-* Total researchers discovered
-* Researchers with emails
-* Email discovery rate
-* Contacted researchers
-* Replies
-* Bounces
-* Researcher sources
-* Keyword distribution
-* Manual-review records
-
-### Filtering
-
-Researchers can be filtered by:
-
-* Keyword
-* Country
-* Source
-* Email status
-* Outreach status
-* Reply classification
-* Duplicate records
-
-The system also supports:
-
-* **CSV export**
-* **CSV / Excel import**
-* Duplicate management
-
----
-
-## 9. Automation
-
-Several parts of the workflow can run automatically.
-
-### Automated Discovery
-
-Run researcher discovery on a predefined schedule.
-
-### Automated Email Discovery
-
-Periodically search for missing email addresses across configured sources.
-
-### Scheduled Outreachohamed-Taha** — an independent tool created to support academic research, scientific collaboration, and researcher outreach in bioinformatics and computational biology.
-
----
 
 ## 📋 Overview
 
