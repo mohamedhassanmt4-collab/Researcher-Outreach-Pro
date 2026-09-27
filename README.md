@@ -10,7 +10,7 @@ An intelligent pipeline for discovering researchers, verifying academic contacts
 
 </div>
 ---
-<img width="1024" height="1536" alt="ChatGPT Image Sep 27, 2026, 09_27_35 PM" src="https://github.com/user-attachments/assets/0a1e9e72-6daf-4a48-bc1c-619770e2a50d" />
+<img width="1024" height="1536" alt="ChatGPT Image Sep 28, 2026, 01_18_50 AM" src="https://github.com/user-attachments/assets/99db4080-e10f-4e92-8ea5-221ccf1993e7" />
 
 
 ## 📋 Overview
