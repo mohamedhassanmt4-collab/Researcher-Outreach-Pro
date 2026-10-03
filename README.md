@@ -10,8 +10,7 @@ An intelligent pipeline for discovering researchers, verifying academic contacts
 
 </div>
 ---
-<img width="1024" height="1536" alt="ChatGPT Image Sep 28, 2026, 01_18_50 AM" src="https://github.com/user-attachments/assets/99db4080-e10f-4e92-8ea5-221ccf1993e7" />
-<img width="1024" height="1536" alt="ChatGPT Image Oct 1, 2026, 02_01_52 AM" src="https://github.com/user-attachments/assets/5f72b1d5-5000-497b-a312-9ca870f7ae86" />
+![Uploading Researcher Outreach Pro_ Global Data Network.png…]()
 
 
 ## 📋 Overview
