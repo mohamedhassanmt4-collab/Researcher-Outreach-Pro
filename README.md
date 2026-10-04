@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c2e8e557-5e25-45bf-9a28-08f88332be97" /><img width="1024" height="1536" alt="Researcher Outreach Pro_ Global Data Network" src="https://github.com/user-attachments/assets/15ae38ba-8536-47d5-968a-2e41bc7fadbe" /><img width="1024" height="1536" alt="Researcher Outreach Pro_ Global Data Network" src="https://github.com/user-attachments/assets/c33ff402-4320-4e13-a7f1-f928d2c92117" /><div align="center">
+<div align="center">
 
 # 🔬 Researcher Outreach Pro
 
@@ -55,6 +55,8 @@ Researcher Outreach Pro consolidates these steps into one focused workflow.
 The overall idea: go from a research topic → a vetted list of relevant researchers → a tracked, personalized outreach campaign, with a human checkpoint wherever confidence is low.
 
 ---
+<img width="1360" height="641" alt="image" src="https://github.com/user-attachments/assets/e3c674e6-6aaa-429f-a562-e69f8a6c5e1c" />
+
 
 ## 🛠️ Tech Stack
 
@@ -80,6 +82,7 @@ npm start
 **Intended use** includes research collaboration, internship and volunteer inquiries, computational collaboration, academic networking, and sharing relevant research. It is **not** intended for spam, unsolicited commercial marketing, or any activity that violates applicable anti-spam or communications regulations. Users are responsible for ensuring their use complies with applicable laws and policies.
 
 ---
+<img width="1360" height="641" alt="image" src="https://github.com/user-attachments/assets/5c0a0a70-b6b8-42fb-9488-0b05b47a2ded" />
 
 ## 📜 License & Usage Terms
 
